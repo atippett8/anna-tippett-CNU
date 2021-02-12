@@ -1,4 +1,4 @@
-## *Project: Places of Residence for Accused Witches* ##
+* ## Project: Places of Residence for Accused Witches ## *
 #### *Project Director(s):* Ewan McAndrew ####
 #### *Project URL:* https://witches.is.ed.ac.uk/ ####
 #### *Reviewer:* Anna Tippett ####
