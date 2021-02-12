@@ -3,6 +3,7 @@
 #### Project URL: https://witches.is.ed.ac.uk/ ####
 #### Reviewer: Anna Tippett ####
 
+![Witches Homepage and places of resident for accused witches](https://atippett8.github.io/anna-tippett-CNU/images/witcheshomepage.png)
 
 The University of Edinburgh created Witches, a digital humanities project about witchcraft trials in Scotland from 1550-1750. 
 The project, led by project director Ewan McAndrew and main researcher Emma Carroll, tracks the 3141 documented people accused 
@@ -25,14 +26,20 @@ On most of the maps, the icons of individuals or clusters of witches has a pop u
 This gives information on that specific individual’s place of origin and sometimes the location of their trial and execution. 
 The information is brief, many entries lack data, but they are concise and easy to read.
 
+![Screenshot of the survey of scottish witchcraft database](https://atippett8.github.io/anna-tippett-CNU/images/scottishwitchcraftdatabase.png)
+
 The most complex pages on the site are The Journey of a Witch Pricker and The Story of Isobel Young. 
 Witch-pricker John Kincaid’s page has a map with icons showing the people he accused of witchcraft and where he was also accused.
 Isobel Young’s web page links to a story map made using Leaflet. 
 Users can scroll through scans of primary documents and text while a map on the right of the screen highlights where the event the text refers to, took place.
 
+![Isobel Young: Digital Humanities technology page](https://atippett8.github.io/anna-tippett-CNU/images/isobelleaflet.png)
+
 There are also two pages with a different digital humanities technology: the Trial Ordeal and Social Class. 
 Both pages use bubble maps, a cluster of circles with text in them, of various sizes to visually indicate their prominence. 
 The first map shows how common certain torture was during witch trials, the second, the amount of people in each economic class.
+
+![Trial by Ordeal bubble map](https://atippett8.github.io/anna-tippett-CNU/images/witchcrafttests.png)
 
 If the project had a brief user guide on the home page, it could be more user-friendly. 
 The rest of the site is navigable and accessible for users unfamiliar with digital humanities technologies. 
