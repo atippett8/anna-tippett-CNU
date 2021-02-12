@@ -5,12 +5,16 @@
 
 ![Witches Homepage and places of resident for accused witches](https://atippett8.github.io/anna-tippett-CNU/images/witcheshomepage.png)
 
+**Summary**
+
 The University of Edinburgh created _Witches_, a digital humanities project about witchcraft trials in Scotland from 1550-1750. 
 The project, led by project director Ewan McAndrew and main researcher Emma Carroll, tracks the 3141 documented people accused 
 of and executed for witchcraft.
 The maps show specific individual witch cases and the concentration of witchcraft events in areas of Scotland. 
 McAndrew’s team utilized Ordnance Survey maps, books, and historical records on this project. 
 They also used digital programs such as OpenRefine, Leaflet, ArcGIS, Wikimedia/WIKIDATA, and Query Service. 
+
+**Navigation**
 
 The main menu at the top of the screen has light gray text. 
 On mobile devices it has a button with three gray lines at the top of the screen, which can make accessibility difficult. 
@@ -20,6 +24,8 @@ Some of the maps have specific features including using darker shading to show g
 and the use of two different witch icons—one with a single witch and one depicting a group of witches—helps simplify 
 the appearance of the maps.
 
+**Maps and Data**
+
 Not all accused men and women ended up receiving trials or were executed. 
 The changes in the amount of people on the different maps show the discrepancies in severity of persecution. 
 On most of the maps, the icons of individuals or clusters of witches has a pop up that links to the Survey of Scottish Witchcraft Database. 
@@ -27,6 +33,8 @@ This gives information on that specific individual’s place of origin and somet
 The information is brief, many entries lack data, but they are concise and easy to read.
 
 ![Screenshot of the survey of scottish witchcraft database](https://atippett8.github.io/anna-tippett-CNU/images/scottishwitchcraftdatabase.png)
+
+**Additional Digital Humanities Components**
 
 The most complex pages on the site are The Journey of a Witch Pricker and The Story of Isobel Young. 
 Witch-pricker John Kincaid’s page has a map with icons showing the people he accused of witchcraft and where he was also accused.
@@ -40,6 +48,8 @@ Both pages use bubble maps, a cluster of circles with text in them, of various s
 The first map shows how common certain torture was during witch trials, the second, the amount of people in each economic class.
 
 ![Trial by Ordeal bubble map](https://atippett8.github.io/anna-tippett-CNU/images/witchcrafttests.png)
+
+**Findings**
 
 If the project had a brief user guide on the home page, it could be more user-friendly. 
 The rest of the site is navigable and accessible for users unfamiliar with digital humanities technologies. 
