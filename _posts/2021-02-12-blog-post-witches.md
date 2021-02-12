@@ -1,11 +1,11 @@
-## Project: Places of Residence for Accused Witches ##
-#### Project Director(s): Ewan McAndrew ####
-#### Project URL: https://witches.is.ed.ac.uk/ ####
-#### Reviewer: Anna Tippett ####
+## *Project: Places of Residence for Accused Witches* ##
+#### *Project Director(s):* Ewan McAndrew ####
+#### *Project URL:* https://witches.is.ed.ac.uk/ ####
+#### *Reviewer:* Anna Tippett ####
 
 ![Witches Homepage and places of resident for accused witches](https://atippett8.github.io/anna-tippett-CNU/images/witcheshomepage.png)
 
-The University of Edinburgh created Witches, a digital humanities project about witchcraft trials in Scotland from 1550-1750. 
+The University of Edinburgh created _Witches_, a digital humanities project about witchcraft trials in Scotland from 1550-1750. 
 The project, led by project director Ewan McAndrew and main researcher Emma Carroll, tracks the 3141 documented people accused 
 of and executed for witchcraft.
 The maps show specific individual witch cases and the concentration of witchcraft events in areas of Scotland. 
