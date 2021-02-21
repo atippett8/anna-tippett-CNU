@@ -1,0 +1,32 @@
+For this assignment, I coded four pages of Charlotte Perkins Stetson’s “The Yellow Wall-paper” using Text Encoding Initiative (TEI). 
+This short story is fictional but has some non-fiction autobiographical elements such as her psychosis due to postpartum depression. 
+Using Json Formatter online, an XML (eXtensive Markup Language) editing alternative to Oxygen, I analyzed and annotated the text.
+
+First, I used the Google Docs comments feature to annotate where I would code. 
+In my excerpt of the story, Stetson frequently used awkward spacing at the beginning of sentences. 
+It’s difficult to know her original intentions about whether these indicate paragraph breaks or it’s just a product of her handwriting. 
+There are also a few places I made note of regarding Stetson’s use of hyphens. 
+In the title, Stetson uses a hyphen in the word “wallpaper;” it appears as “wall-paper.” 
+Due to this discrepancy, I noted the spelling change in my code. 
+The other hyphen issue was the lack of punctuation or spacing between “oldfashioned.”
+
+Since my Chromebook computer wasn’t compatible with Oxygen, I had to seek an alternate XML code examiner. 
+With Dr. Stover’s help, I navigated Json Formatter and made the necessary changes to my code to ensure its validity. 
+I was initially confused by the invalid markers the program gave me, I went to Dr. Stover’s office hours and learned that most of 
+my mistakes were because I copy/pasted the text from the Google Doc into the program. 
+Retyping small sections of my text fixed the errors.
+
+Never having coded before this class, I had assumed it would be more difficult because computer language always looked so foreign to my untrained eyes. 
+Learning how methodical and logical this computer coding language (at least in my limited experience) appears to be, 
+Annette Vee’s insistence that programming literacy should be widely accessible and required in school curriculums makes more sense. 
+It isn’t impossible to learn, nor does it require extensive efforts to understand the basics.
+
+I struggled with accidentally adding too many spaces in between the original text and the code because for me, 
+it is easier for me to visually separate the two when I’m still annotating. 
+Another factor influencing my spatial difficulties was that since we began in Google Docs and the spell checker does not 
+recognize the coding language so it marks the lack of space between the text and the code as a spelling error.
+
+Overall this project was informative. 
+I feel like I learned a lot about TEI and annotating based on the formatting and style of the original text. 
+After a brief learning curve, I think I understood why my code was initially invalid and how to fix it. 
+I’m glad I now understand some of the most common and basic TEI code tags.
