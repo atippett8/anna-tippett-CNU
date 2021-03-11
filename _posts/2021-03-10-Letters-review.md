@@ -1,12 +1,9 @@
-Project: Letters 1916-1923: Ordinary Lives, Extraordinary Times
+## Project: Letters 1916-1923 ##
+#### Project Director(s): Susan Schreibman ####
+#### Project URL: http://letters1916.maynoothuniversity.ie/ ####
+#### Reviewer: Anna Tippett ####
 
-Project Director(s): Susan Schreibman
-
-Project URL: http://letters1916.maynoothuniversity.ie/
-
-Reviewer: Anna Tippett
-
-
+![Letters 1916-1923 homepage](https://atippett8.github.io/anna-tippett-CNU/images/letterhomepage.png)
 
 Maynooth University in Ireland created a digital humanities (DH) project called Letters 1916-1923. 
 Susan Schreibman and Monika Barget led this project which focuses on digitally collecting letters from 
@@ -24,6 +21,8 @@ components of the project. Under the “Explore the Collection” tab, it catego
 historical events, source of origin, letter-writer, and the broad cultural topics they discuss. There is a 
 list of keywords that break down the 4000+ letters and photographs into manageable amounts of navigable material. 
 
+![Letters database search page](https://atippett8.github.io/anna-tippett-CNU/images/letterssearchpage.png)
+
 While the layout for the artifact database page is logical, I noticed a single difficulty regarding the clarity
 of the transcriptions because the computer software occasionally struggles to interpret the letters’ handwriting 
 and typewriter words. In the image below, the spacing at the end of the first paragraph on the word “appearance” 
@@ -36,6 +35,9 @@ still collecting more letters. Nevertheless, I think the active decision to incl
 way to make the website accessible to readers with literacy disabilities and for people who may find the handwriting on 
 the scanned letters difficult to read.
 
+![Awkward trascription of a typewriter-written letter](https://atippett8.github.io/anna-tippett-CNU/images/lettertrascriptionbad.png)
+
+![Inaccurate trascription of a handwritten letter](https://atippett8.github.io/anna-tippett-CNU/images/2lettertranscriptionbad.png)
 
 The other notable DH component to this project are the two interactive maps under the “Visual Exploration” tab, 
 the first of which uses lines to connect cities where the most correspondence occurred and the second map showing 
