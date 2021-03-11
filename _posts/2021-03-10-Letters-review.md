@@ -50,6 +50,7 @@ that the project team used not being completely compatible with each other, or t
 map to the letters is not possible. As it is, users would have to make note of the name of a letter writer/recipient, 
 then use the separate webpage to find specific correspondence between those individuals. I think if there was a way 
 to tie these two functions of the website together, it would be even more user friendly and convenient.
+
 Overall, I think the site is navigable and accessible for people who are unfamiliar with digital humanity projects. 
 It catalogues the artifacts in a logical and well-organized way. Though I pointed out where it can improve, it is one 
 of the most logical and user-friendly DH projects I’ve seen in terms of ease of navigation and not requiring a user’s 
