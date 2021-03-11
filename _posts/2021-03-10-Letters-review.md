@@ -44,6 +44,7 @@ the first of which uses lines to connect cities where the most correspondence oc
 the network of relationships between letter-writers. The interactive maps are visually easy to follow. The numbers 
 show the amount of the letter writers and recipients in that major geographical area without the need for a map key 
 to explain. When users zoom in on the map, there are red dots to show individual letter writers and recipients. 
+
 Though the simplicity of the map is great, the red dots only give the name of the letter writer or recipient. 
 They don’t provide hyperlinks to access those letters. This disconnect could be due to the multiple digital technologies 
 that the project team used not being completely compatible with each other, or that this function of connecting the 
