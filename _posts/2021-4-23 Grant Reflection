@@ -1,11 +1,15 @@
 ##Reflecting on Grant Writing and Digital Humanities##
 
-**Grant Writing Project:**
+**Grant Writing Project:** 
 Jeremiah and I decided to create a Digital Humanities project exploring the amount of diversity in young adult protagonists of books on the New York Times bestsellers list. As someone pursuing a career in the publishing industry, I found this topic particularly interesting. Jeremiah and I agreed that with our shared experiences as minorities in the United States, this project would help bring awareness to the lack of diversity in bestsellers and encourage positive change in the publishing industry. 
  
 When we imagined our project, we laid out a detailed plan of how we would use DH elements to make the website more interactive, more visually appealing, and more accessible. In the process of figuring out the logistics of proposing such a project, I learned that many of the more complex technical elements of our plan would need adjusting to fit within our limited budget and capabilities as newcomers to the DH digital landscape. 
  
+![Sample bar graph and explanation](https://atippett8.github.io/anna-tippett-CNU/images/bargraph.png)
+ 
 Our goal of creating an interactive word cloud for the home page was a little too optimistic based on our technological skill sets. The interactive component would require special software that would not be free, therefore it would also not serve our budget. The best way to troubleshoot this portion of our plan for the project was to plan on hyperlinking the image of the word cloud to bring viewers to the main graphs page. Since the word cloud would feature on the homepage of our website, text below it would provide and introduction to the project, we thought this would work and not confuse viewers.
+ 
+ ![Sample word cloud with diversity categories](https://atippett8.github.io/anna-tippett-CNU/images/wordcloud.png)
  
 Another difficulty we ran into was that neither of us has experience in the more technical skills that we would need to accomplish some of the graph and hyperlink connections between web pages that we had initially hoped to create. After considering our skill sets, we modified a few of the DH elements of our project to serve our budget and capabilities. For example, we intended to create several bar graphs with clickable bars that would have hyperlinks to other tabs on our website. Using Tableau, the software we chose to create the graphs, we would have to pay a monthly fee to keep the graphs up and functional on the website. This was not possible within our budget. 
  
