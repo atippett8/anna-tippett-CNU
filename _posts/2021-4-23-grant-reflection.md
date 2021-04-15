@@ -1,5 +1,6 @@
 ## Reflecting on Grant Writing and Digital Humanities ##
-### Anna Tippett ###
+#### Anna Tippett ####
+#### April 23, 2021 ####
 
 **Grant Writing Project:** 
 Jeremiah and I decided to create a Digital Humanities project exploring the amount of diversity in young adult protagonists of books on the New York Times bestsellers list. As someone pursuing a career in the publishing industry, I found this topic particularly interesting. Jeremiah and I agreed that with our shared experiences as minorities in the United States, this project would help bring awareness to the lack of diversity in bestsellers and encourage positive change in the publishing industry. 
