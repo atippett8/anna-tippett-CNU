@@ -6,7 +6,7 @@
 
 Jeremiah and I decided to create a Digital Humanities project exploring the amount of diversity in young adult protagonists of books on the New York Times bestsellers list. As someone pursuing a career in the publishing industry, I found this topic particularly interesting. Jeremiah and I agreed that with our shared experiences as minorities in the United States, this project would help bring awareness to the lack of diversity in bestsellers and encourage positive change in the publishing industry. 
  
- **Overcoming and Adapting to Project Challenges**
+ **Overcoming and Adapting to Project Challenges:**
  
 When we imagined our project, we laid out a detailed plan of how we would use DH elements to make the website more interactive, more visually appealing, and more accessible. In the process of figuring out the logistics of proposing such a project, I learned that many of the more complex technical elements of our plan would need adjusting to fit within our limited budget and capabilities as newcomers to the DH digital landscape. 
  
